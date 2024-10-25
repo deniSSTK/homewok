@@ -1,0 +1,3 @@
+C:/homewok/cmake-build-debug/CMakeFiles/homewok.dir
+C:/homewok/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/homewok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
