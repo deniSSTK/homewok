@@ -1,3 +1,10 @@
+/**
+* Done by:
+ * Student Name: Denis Tkachenko
+ * Student Group: 121
+ * Lab 1.7
+ */
+
 #include <iostream>
 
 static int nA = 0;

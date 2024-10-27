@@ -1,3 +1,10 @@
+/**
+* Done by:
+ * Student Name: Denis Tkachenko
+ * Student Group: 121
+ * Prac 2.1
+ */
+
 #include <iostream>
 #include <vector>
 #include <cmath>
